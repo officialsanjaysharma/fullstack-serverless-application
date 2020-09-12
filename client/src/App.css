@@ -1,0 +1,28 @@
+.typography1 {
+  margin-top: 18;
+  color: grey;
+}
+
+.outer-div {
+  width: '100vw';
+  display: 'flex';
+  height: '100vh';
+  flex-direction: 'column';
+  justify-content: 'center';
+}
+
+.inner-div {
+  display: 'flex';
+  justify-content: 'center';
+  flex-direction: 'row';
+}
+
+.circular-progress {
+  color: '#00ccff';
+  width: 60;
+  height: 60;
+}
+
+.typography2 {
+  color: '#00ccff';
+}
