@@ -33,7 +33,7 @@
       sam deploy --guided
      ```
 
-  1. Copy down the url got after running application locally. It will be used in client side.
+  1. Copy down the url got after deploying the application on aws or by running it locally. It will be used in client side.
 
 * Client
 
